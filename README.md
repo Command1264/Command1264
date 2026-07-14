@@ -15,7 +15,7 @@
 
 | Project | Focus | Tech |
 | --- | --- | --- |
-| [YOLOTools](https://github.com/Command1264/YOLOTools) | YOLO 訓練、資料整理、模型驗證與 HTTP 推論服務工具集 | Python, Flask, OpenCV, Ultralytics YOLO, PyTorch |
+| [YOLOTools](https://github.com/Command1264/YOLOTools) | YOLO 訓練、資料整理、模型驗證與 HTTP 推論服務工具集 | Python, Flask, OpenCV, Ultralytics YOLO, unittest |
 | [WatchDog](https://github.com/Command1264/WatchDog) | Windows-first watchdog tray application，支援程序監控、autostart fallback 與 logging | Python, PySide6, psutil, pytest |
 | [DangoSimulator](https://github.com/Command1264/DangoSimulator) | 設定驅動的模擬核心，CLI / GUI 共用 core API，支援批次模擬與 JSON/CSV 輸出 | Python, PySide6, pytest |
 | [AppliedMathematicalModellingKt](https://github.com/Command1264/AppliedMathematicalModellingKt) | Kotlin JVM 批次演算法工具，支援 YAML 設定、CSV/Excel 輸出與圖表產生 | Kotlin, Java 21, Gradle, Apache POI |
